@@ -1,0 +1,13 @@
+# individually ignoring the files
+error.log
+request.log
+
+
+#ignoring all the files of same format (ignoring all the log files)
+*.log 
+
+
+#ignoring the file
+abc/
+
+.vscode/
