@@ -8,6 +8,6 @@ request.log
 
 
 #ignoring the file
-abc/
+# abc/
 
 .vscode/
